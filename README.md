@@ -154,7 +154,7 @@ Sunny List добавляет два виджета на домашний экр
 - двойное нажатие по календарю принудительно перечитывает текущую дату.
 
 <p align="center">
-  <img src="screenshots/01-widgets.jpg" width="300" alt="Виджеты задач и календаря">
+  <img src="screenshots/01-widgets.jpg?raw=1" width="300" alt="Виджеты задач и календаря">
 </p>
 
 ## Напоминания
