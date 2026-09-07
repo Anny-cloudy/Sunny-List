@@ -1,7 +1,7 @@
 # Sunny List ☀️
 
 <p align="center">
-  <a href="https://github.com/Anny-cloudy/Sunny-List/releases/latest"><strong>⬇️ Скачать последнюю версию</strong></a>
+  <a href="https://github.com/Anny-cloudy/Sunny-List/releases/download/v1.0.1/sunny-list-v1.0.1.apk"><strong>⬇️ Скачать последнюю версию</strong></a>
 </p>
 
 <p align="center">
