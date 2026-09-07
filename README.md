@@ -1,6 +1,10 @@
 # Sunny List ☀️
 
 <p align="center">
+  <a href="https://github.com/Anny-cloudy/Sunny-List/releases/latest"><strong>⬇️ Скачать последнюю версию</strong></a>
+</p>
+
+<p align="center">
   <img src="icon.png" width="128" alt="Иконка Sunny List">
 </p>
 
